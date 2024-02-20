@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T03:12:15.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="TFL9n8Do7JJeA-Xu6gND" version="23.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-02-20T03:12:56.457Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="eAHBytNPL7NzeVqG5Xd5" version="23.0.2" type="github" pages="4">
   <diagram name="第 1 页" id="XfMc2Xq6K2Zj4FpbCWK5">
     <mxGraphModel dx="1282" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,9 +89,6 @@
         <mxCell id="9yEpt_gHU2i43mguLDLS-10" value="其他扩展..." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="220" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9yEpt_gHU2i43mguLDLS-12" value="字典请求&lt;br&gt;大数据&lt;br&gt;快速返回" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="-120" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="9yEpt_gHU2i43mguLDLS-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="9yEpt_gHU2i43mguLDLS-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="226" y="50" as="sourcePoint" />
@@ -116,6 +113,15 @@
           <mxGeometry x="0.1373" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9yEpt_gHU2i43mguLDLS-20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="105" y="-120" width="175" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9yEpt_gHU2i43mguLDLS-12" value="字典请求&lt;br&gt;大数据&lt;br&gt;快速返回" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="9yEpt_gHU2i43mguLDLS-20">
+          <mxGeometry x="55" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9yEpt_gHU2i43mguLDLS-19" value="多个类别组合返回" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9yEpt_gHU2i43mguLDLS-20">
+          <mxGeometry y="60" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
