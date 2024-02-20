@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T03:10:49.496Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="ZDXno16WTRPNXF2fNIZT" version="23.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-02-20T03:12:15.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="TFL9n8Do7JJeA-Xu6gND" version="23.0.2" type="github" pages="4">
   <diagram name="第 1 页" id="XfMc2Xq6K2Zj4FpbCWK5">
     <mxGraphModel dx="1282" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OsJ-N9EFmKhlXrY6UOYO" name="数据加载">
-    <mxGraphModel dx="1508" dy="1848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1282" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,7 +89,7 @@
         <mxCell id="9yEpt_gHU2i43mguLDLS-10" value="其他扩展..." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="220" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9yEpt_gHU2i43mguLDLS-12" value="字典请求" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9yEpt_gHU2i43mguLDLS-12" value="字典请求&lt;br&gt;大数据&lt;br&gt;快速返回" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="-120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9yEpt_gHU2i43mguLDLS-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="9yEpt_gHU2i43mguLDLS-12">
@@ -103,8 +103,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9yEpt_gHU2i43mguLDLS-16" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="-120" width="120" height="80" as="geometry" />
+        <mxCell id="9yEpt_gHU2i43mguLDLS-16" value="单条详细" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9yEpt_gHU2i43mguLDLS-17" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.595;exitY=-0.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9yEpt_gHU2i43mguLDLS-1" target="9yEpt_gHU2i43mguLDLS-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="30" as="sourcePoint" />
+            <mxPoint x="420" y="-20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9yEpt_gHU2i43mguLDLS-18" value="返回项目详细信息&lt;br&gt;(默认值等)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9yEpt_gHU2i43mguLDLS-17">
+          <mxGeometry x="0.1373" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
