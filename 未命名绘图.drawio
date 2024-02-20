@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T03:06:50.594Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="YpJAD1elMx21O7NbPe0T" version="23.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-02-20T03:08:42.874Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="LpHXdc35pybS2cFlElCA" version="23.0.2" type="github" pages="4">
   <diagram name="第 1 页" id="XfMc2Xq6K2Zj4FpbCWK5">
     <mxGraphModel dx="1282" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,20 +68,26 @@
         <mxCell id="9yEpt_gHU2i43mguLDLS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9yEpt_gHU2i43mguLDLS-1" target="9yEpt_gHU2i43mguLDLS-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9yEpt_gHU2i43mguLDLS-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9yEpt_gHU2i43mguLDLS-1" target="9yEpt_gHU2i43mguLDLS-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9yEpt_gHU2i43mguLDLS-1" value="下拉费用数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="50" width="410" height="100" as="geometry" />
+          <mxGeometry x="20" y="50" width="750" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9yEpt_gHU2i43mguLDLS-2" value="西药" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="210" width="120" height="80" as="geometry" />
+          <mxGeometry x="50" y="220" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9yEpt_gHU2i43mguLDLS-4" value="中药" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="255" y="210" width="120" height="80" as="geometry" />
+          <mxGeometry x="195" y="220" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9yEpt_gHU2i43mguLDLS-6" value="耗材" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="210" width="120" height="80" as="geometry" />
+          <mxGeometry x="340" y="220" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9yEpt_gHU2i43mguLDLS-8" value="..." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="210" width="120" height="80" as="geometry" />
+        <mxCell id="9yEpt_gHU2i43mguLDLS-8" value="检查检验" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9yEpt_gHU2i43mguLDLS-10" value="其他扩展..." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="220" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
