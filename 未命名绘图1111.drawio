@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T07:09:23.629Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="oyM_lgFefIaj5lD1DuUu" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T07:10:24.189Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="UWA64kpu0r_xshEnBuSP" version="24.2.2" type="github">
   <diagram name="第 1 页" id="GBd7Jc7VdTxVBdFkuDs7">
     <mxGraphModel dx="1508" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,6 +30,20 @@
         </mxCell>
         <mxCell id="_OdP8fe9HPRAu60lT5_M-12" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="355" y="30" width="50" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="_OdP8fe9HPRAu60lT5_M-13" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="65" y="540" width="625" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="_OdP8fe9HPRAu60lT5_M-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_OdP8fe9HPRAu60lT5_M-8" target="_OdP8fe9HPRAu60lT5_M-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="520" as="sourcePoint" />
+            <mxPoint x="380" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_OdP8fe9HPRAu60lT5_M-15" value="选择收费项目" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_OdP8fe9HPRAu60lT5_M-14">
+          <mxGeometry x="0.0022" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
